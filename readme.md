@@ -1,6 +1,6 @@
 # Maratona Explorer 
 
-> Second Week (3.0)
+> Third Week (3.0)
 
 ![preview](./assets/preview.png)
 
