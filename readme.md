@@ -6,7 +6,7 @@
 
 Project developed at the Rocketseat Maratona Explorer 3.0 event
 
-[ 🔗 click here to acess](https://agilitytzx.github.io/maratona-explorer-3.0/)
+[ 🔗 click here to acess](https://agilitytzx.github.io/Menu-Online/)
 
 
 ## 🛠 Technologies
